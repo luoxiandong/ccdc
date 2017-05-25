@@ -1,7 +1,7 @@
 <?php
 
 
- echo "this is the ccdc first repository ÏîÄ¿";
+ echo "this is the ccdc first repository é¡¹ç›®";
 
 
 ?>
